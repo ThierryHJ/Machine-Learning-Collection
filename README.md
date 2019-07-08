@@ -21,6 +21,7 @@ Classes:
 ### Table of Contents
 
 - [Introduction to Machine Learning (Concepts, Methdology](Introduction/)
+- [Model Selection and Evaluation]
 - [Concept learning, inductive bias](CL/)
 - [Review of Prob & Stats. Linear Regression](LR/)
 - [Information Theory](MC/)
