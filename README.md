@@ -26,11 +26,9 @@ Classes:
 - [Review of Prob & Stats. Linear Regression](LR/)
 - [Information Theory](MC/)
 - [Decision trees, overfitting, Occam's razor](TD/)
+- [Ensemble Learning (Bagging, Boosting and Random Forest)](TD/)
 - [Neural Networks; Deep Learning](FA/)
-- [Deep Q Learning](DQN/) (WIP)
-- [Policy Gradient Methods](PolicyGradient/) (WIP)
-- Learning and Planning (WIP)
-- Exploration and Exploitation (WIP)
+
 
 
 ### List of Implemented Algorithms
