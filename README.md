@@ -9,6 +9,7 @@ Textbooks:
 - Machine Learning, by Tom Mitchell. 
 - Pattern Recognition and Machine Learning, by Christopher Bishop.
 - Machine Learning, by Zhihua Zhou.
+- An Introduction to Statistical Learning, by Gareth James,Daniela Witten,Trevor Hastie and Robert Tibshirani.
 
 Classes:
 
@@ -21,13 +22,13 @@ Classes:
 ### Table of Contents
 
 - [Introduction to Machine Learning (Concepts, Methdology](Introduction/)
-- [Model Selection and Evaluation]
-- [Concept learning, inductive bias](CL/)
+- [Model Selection and Evaluation](MS/)
+- [Concept learning, inductive bias](ConceptLearning/)
 - [Review of Prob & Stats. Linear Regression](LR/)
-- [Information Theory](MC/)
-- [Decision trees, overfitting, Occam's razor](TD/)
-- [Ensemble Learning (Bagging, Boosting and Random Forest)](TD/)
-- [Neural Networks; Deep Learning](FA/)
+- [Information Theory](InfoTheory/)
+- [Decision trees, overfitting, Occam's razor](DecisionTree/)
+- [Ensemble Learning (Bagging, Boosting and Random Forest)](EnsembleLearning/)
+- [Neural Networks; Deep Learning](NN/)
 
 
 
